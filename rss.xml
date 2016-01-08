@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lovelymachine]]></title>
+        <description><![CDATA[lovelymachine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 22:22:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOTAL ELECTRIC LIVING]]></title>
+            <description><![CDATA[<article><h1>TOTAL ELECTRIC LIVING</h1><p>A new film written and directed by Gregory Bayne. Commencing production 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/453e348ac1e64d4b397221f300262192d9ce368d.jpg"></article>]]></description>
+            <link>undefinedtotal-electric-living/index.html</link>
+            <guid isPermaLink="false">a11d9269-c19b-4da6-9efc-1f511c5ebc1a</guid>
+            <pubDate>Fri, 08 Jan 2016 22:22:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
